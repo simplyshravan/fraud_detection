@@ -1,0 +1,1 @@
+print("this file contains model of machine learning")
