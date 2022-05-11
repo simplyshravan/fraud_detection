@@ -37,12 +37,8 @@
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Contributors
-[Shubhada](https://github.com/Shubhada-11)
-[Shravan](https://github.com/simplyshravan)
-
-
-## Contact
-Created by [@simplyshravan] - feel free to contact me!
+* [Shubhada](https://github.com/Shubhada-11)
+* [Shravan](https://github.com/simplyshravan)
 
 
 <!-- Optional -->
